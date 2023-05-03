@@ -1,0 +1,13 @@
+{
+  "name": "json-server-my-corner",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
